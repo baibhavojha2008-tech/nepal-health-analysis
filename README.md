@@ -15,6 +15,7 @@ Built with SQLite, Python (pandas, matplotlib, seaborn), and Jupyter.
 - Nepal's life expectancy (70.4 years) is only **4.9 years below the world average** (75.2), despite the massive bed shortage — suggesting other factors shape health outcomes.
 - Sri Lanka stands out as the South Asian success story: **3.93 beds per 1,000 and 77.5 years** of life expectancy, both above the world average.
 
+> **Data note:** India and Pakistan were excluded from the 2023 comparison due to missing data in the World Bank dataset for that year.
 ---
 
 ## 📈 Visuals
